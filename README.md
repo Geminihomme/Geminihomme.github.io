@@ -1,2 +1,2 @@
 # https-geminihomme.github.io
-A simple memory game to help with memory
+A simple game to help with memory retention
